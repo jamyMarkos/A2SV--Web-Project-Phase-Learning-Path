@@ -1,0 +1,34 @@
+.container {
+  width: 900px;
+  max-width: 80%;
+  border: none;
+  background-color: #f5eec239;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .2);
+  border-radius: 3px;
+  margin: 3rem auto;
+  padding: 10px;
+}
+
+.cards {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  border-radius: 10px;
+  list-style: none;
+  align-items: stretch;
+}
+
+@media (max-width: 760px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+}
+
+@media (max-screen: 480px) {
+  .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+}
+

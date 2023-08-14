@@ -1,0 +1,19 @@
+header {
+    margin-top: 5px;
+    /* padding: 30px; */
+    padding-top: 20px;
+}
+header > h1 {
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #39395f;
+}
+
+@media (max-width: 760px) {
+    header > h1 {
+        font-size: 1.3rem;
+    }
+    
+}
