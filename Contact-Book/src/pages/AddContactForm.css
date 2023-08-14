@@ -1,0 +1,61 @@
+
+.form_container {
+    border: 1px solid #7474eb;
+    border-radius: 4px;
+    width: 500px;
+    height: 300px;
+    margin: 8rem auto;
+    box-shadow: 0 2px 8px #4d494980;
+}
+
+.form_container h2 {
+    text-align: center; 
+    font-family: 'Nunito', sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 1rem 3rem;
+    font-family: 'Nunito';
+  }
+  
+  label {
+    margin-bottom: 10px;
+
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"] {
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    border: none;
+    line-height: 1.5;
+    padding: 4px;
+    font-size: 10px;
+    
+  }
+
+  input:focus {
+    outline: none;
+  }
+  
+  button[type="submit"] {
+    margin: 1rem auto;
+    width: 90px;
+    padding: 4px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    font-family: 'Nunito';
+    border-radius: 4px;
+
+  }
+
+  .title {
+    text-align: center;
+  }
+  

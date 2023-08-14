@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "phoneNumber": "011-962-111",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "fullName": "jamy",
+      "phoneNumber": "0910421929",
+      "email": "mintesnot.markos@a2sv.org",
+      "id": 5
+    },
+    {
+      "fullName": "Logan Paul",
+      "phoneNumber": "910421929",
+      "email": "5000@localhost.com",
+      "id": 6
+    },
+    {
+      "fullName": "Andrew Tate",
+      "phoneNumber": "+31-50428--8p2i4",
+      "email": "jamymarcoss47@gmail.com",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: .5rem;
+    font-family: inherit;
+    margin-top: 20px;
+    font-size: 8px;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #9898ec;
+    border-radius: 5px;
+}
+
+th, td {
+    font-family: 'Nunito';
+    font-weight: 700;
+    border: 1px solid #9898ec;
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+}
+th {
+    text-align: center;
+}
+
+.action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    padding: 6px;
+    font-size: 12px;
+    background-color: #7474eb;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+    transition: trasform 1s;
+
+}
+
+.btn_del {
+    background-color: #660404;
+    color: #999;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+th {
+    background-color: #7474eb;
+}
+
+form {
+    display: flex;
+}
+
+form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contact_table {
+    margin: 1rem auto;
+}
+.flex_container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.flex_container button {
+    margin: 0 6px;
+    
+}
+
+.flex_container button.del {
+    background-color: #660404;
+    color: #fff;
+}
+
+.edit_input {
+    width: 80px;
+}
