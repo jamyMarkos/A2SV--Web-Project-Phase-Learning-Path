@@ -1,0 +1,10 @@
+.container {
+  margin: 4rem auto;
+  width: 40%;
+}
+
+button.op {
+  width: 20px;
+  padding: 5px;
+  margin: 0 5px;
+}
