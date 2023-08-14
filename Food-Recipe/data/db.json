@@ -1,0 +1,51 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum ",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos neque perferendis suscipit repellat harum, quam quibusdam exercitationem cum non, optio quos totam officiis. Ipsum, nesciunt?",
+      "date": "Aug 12 2019",
+      "ingredients": [
+        "Sugar",
+        "Milk",
+        "Butter",
+        "Chocolate chips",
+        "Vanilla extract",
+        "Baking powder",
+        "Salt",
+        "Nuts",
+        "Berries"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sit amet",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos neque perferendis suscipit repellat harum, quam quibusdam exercitationem cum non, optio quos totam officiis. Ipsum, nesciunt?",
+      "date": "Jul 8 2018",
+      "ingredients": [
+        "Chocolate chips",
+        "Vanilla extract",
+        "Baking powder",
+        "Salt",
+        "Nuts",
+        "Berries",
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Optio quos",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos neque perferendis suscipit repellat harum, quam quibusdam exercitationem cum non, optio quos totam officiis. Ipsum, nesciunt?",
+      "date": "Sept 12 2023",
+      "ingredients": [
+        "Chocolate chips",
+        "Vanilla extract",
+        "Baking powder",
+        "Salt",
+        "Nuts",
+        "Berries",
+        "Cinnamon"
+      ]
+    }
+  ]
+}
