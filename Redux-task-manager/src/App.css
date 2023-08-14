@@ -1,0 +1,12 @@
+#root {
+  width: 800px;
+  margin: 3rem auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#app {
+  width: 700px;
+  margin: 6rem auto;
+  padding: 2rem;
+}
