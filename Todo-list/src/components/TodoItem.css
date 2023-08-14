@@ -1,0 +1,38 @@
+button {
+    padding:5px;
+    color: #000;
+    background-color: green;
+    border-radius: 4px;
+    margin: 8px;
+    cursor: pointer;
+    border: none;
+    padding: 7px;
+}
+
+button:hover {
+    transform: scale(1.08);
+    font-size: 12px;
+}
+
+
+.btn__del {
+    background-color: #6b0303;
+    border: none;
+    padding: 7px;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+
+/* #text {
+    color: #fff;
+} */
+
+.btn__cancel {
+    background-color:6b0303 ;
+}
+
+.edit_container {
+    margin: 0;
+    padding: 0;
+}
